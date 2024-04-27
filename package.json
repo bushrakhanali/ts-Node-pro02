@@ -1,0 +1,19 @@
+{
+  "name": "ts_projects-02",
+  "version": "1.0.0",
+  "description": "An Automated Teller Machine (ATM) simulator built using Typescript, Node.js and Inquirer.Allowing users to perform banking transactions such as withdrawals, deposits, and balance inquiries.",
+  "main": "class-02.js",
+  "type": "module",
+  "bin": "class-02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bushra Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
